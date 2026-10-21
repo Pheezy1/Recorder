@@ -1,0 +1,21 @@
+{
+  "short_name": "ArbPro",
+  "name": "Arbitrage Commander Pro",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#080b10",
+  "theme_color": "#0f141c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
